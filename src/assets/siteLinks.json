@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.moxiao.site/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://alist.moxiao.site/"
+  },
+  {
+    "icon": "Compass",
+    "name": "主页",
+    "link": "https://moxiao.site/"
+  },
+  {
+    "icon": "Images",
+    "name": "图床",
+    "link": "https://image.moxiao.site/"
+  },
+  {
+    "icon": "Gamepad",
+    "name": "游戏",
+    "link": "https://games.moxiao.site/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.moxiao.site/"
+  }
+]
